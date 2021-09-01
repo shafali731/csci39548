@@ -1,0 +1,16 @@
+body {
+    font-family: Courier New;
+    background-color: rgb(207, 105, 93);
+    text-align: center;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(128, 5, 139);
+    background-color: lavender;
+    padding: 10px;
+  }
+  
+  #fav-num {
+      color: rgb(128, 5, 139);
+  }
